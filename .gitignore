@@ -1,0 +1,4 @@
+# Les installeurs sont publies dans les Releases GitHub, jamais dans git
+*.exe
+*.msi
+*.zip
