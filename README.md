@@ -31,7 +31,11 @@ Le phishing ne se repère plus à l'œil nu. Un faux PayPal ressemble au vrai à
 | 📅 **Agenda et tâches intégrés** | Un email devient une tâche en une touche (`T`). Calendrier, priorités, rappels, glisser-déposer. |
 | 🔔 **Notifications Windows** | Nouveaux emails et rappels de tâches, même fenêtre fermée (l'app reste près de l'horloge). |
 | 🔐 **Ta vie privée d'abord** | Tout tourne **sur ton ordinateur** : aucun serveur intermédiaire, aucun abonnement, aucun pistage. Ton mot de passe est rangé dans le **coffre chiffré de Windows**, jamais dans un fichier. Les images espions peuvent être bloquées. |
-| 🎨 **Agréable au quotidien** | Thème clair ou sombre, raccourcis clavier, interface fluide. |
+| 🧠 **Brain : vide ta tête** | Capture tes idées et tâches sans date en une seconde, puis glisse-les sur les jours du calendrier. |
+| 🎯 **Objectifs** | Tes grands buts avec échéance ; la progression se calcule toute seule à partir des tâches liées. |
+| 📝 **Notes et carte façon Obsidian** | Notes Markdown reliées par des liens `[[Titre]]`, et une carte interactive qui montre comment tâches, notes et objectifs sont connectés. |
+| 🔒 **Verrouillage par code** | Code demandé à l'ouverture, après inactivité ou avec `Ctrl+L`. Appliqué par l'app elle-même, pas seulement à l'écran ; notifications masquées quand elle est verrouillée. |
+| 🎨 **Ton thème, ton style** | 6 ambiances (Clair, Sombre, Minuit, Forêt, Nord, Sépia), la couleur d'accent de ton choix, fond aurore, raccourcis clavier. |
 
 ## Aperçu
 
@@ -47,7 +51,7 @@ Le phishing ne se repère plus à l'œil nu. Un faux PayPal ressemble au vrai à
 
 ## Installation (2 minutes)
 
-1. **Télécharge** `PersoDash-Setup-1.0.0.exe` depuis la page [**Releases**](https://github.com/EssidYassine/PersoDash/releases/latest).
+1. **Télécharge** `PersoDash-Setup-1.1.0.exe` depuis la page [**Releases**](https://github.com/EssidYassine/PersoDash/releases/latest).
 2. **Lance-le.** Pas besoin d'être administrateur : l'app s'installe pour ton compte, avec une icône sur le Bureau et dans le menu Démarrer.
    > Windows peut afficher « Windows a protégé votre ordinateur » : c'est normal pour une app récente qui n'est pas encore signée numériquement. Clique sur **Informations complémentaires**, puis sur **Exécuter quand même**.
 3. **Au premier lancement**, PersoDash te guide pour connecter Gmail :
@@ -62,7 +66,7 @@ Le phishing ne se repère plus à l'œil nu. Un faux PayPal ressemble au vrai à
 Pour t'assurer que l'installeur n'a pas été modifié, compare son empreinte SHA-256 à celle publiée avec chaque version. Dans PowerShell :
 
 ```powershell
-Get-FileHash .\PersoDash-Setup-1.0.0.exe -Algorithm SHA256
+Get-FileHash .\PersoDash-Setup-1.1.0.exe -Algorithm SHA256
 ```
 
 Le résultat doit être identique à celui indiqué dans les [notes de version](https://github.com/EssidYassine/PersoDash/releases/latest).
