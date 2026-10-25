@@ -5,6 +5,8 @@
 - 🎯 **Objectifs** : échéance, compte à rebours et progression calculée à partir des tâches liées.
 - 📝 **Notes** en Markdown, avec liens `[[Titre]]` vers tes tâches, notes et objectifs, et la liste des notes qui pointent vers celle-ci.
 - 🕸️ **Carte façon Obsidian** : un graphe interactif de tout ce qui est relié (zoom, déplacement, clic pour ouvrir).
+- 🎯 **Rattacher depuis la carte** : glisse une tâche ou une note sur un objectif pour l'y relier.
+- 🖱️ Glisser-déposer des tâches fiable dans l'application de bureau (calendrier, Brain).
 - 🔒 **Verrouillage par code** : à l'ouverture, après inactivité (réglable) ou avec `Ctrl+L`. Le code n'est jamais enregistré (seulement une empreinte), les essais sont limités et les notifications sont masquées tant que l'app est verrouillée.
 - 🎨 **Thèmes personnalisés** : 6 ambiances, couleur d'accent libre, arrondis, fond aurore avec effet verre.
 - ✏️ Les tâches se modifient (double-clic) et se rattachent à un objectif.
@@ -18,7 +20,7 @@ Télécharge **PersoDash-Setup-1.1.0.exe** ci-dessous et lance-le (pas besoin de
 SHA-256 de `PersoDash-Setup-1.1.0.exe` :
 
 ```
-b77bd749c800b24033d7f67b4ac3f2eaf55bdd7e01b3105daef3469dc0f1ffce
+2351a80454fc0c14c1e12da077cfae53b6bb7ca9ee980001fa031445c65fd636
 ```
 
 Windows 10 (1809+) / 11, 64 bits · Gmail avec validation en 2 étapes.
