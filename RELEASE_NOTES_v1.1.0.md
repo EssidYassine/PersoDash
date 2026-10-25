@@ -18,7 +18,7 @@ Télécharge **PersoDash-Setup-1.1.0.exe** ci-dessous et lance-le (pas besoin de
 SHA-256 de `PersoDash-Setup-1.1.0.exe` :
 
 ```
-a15127de8c3c73d82ffe08123c24745a24fa0e5b3f994d97bee809ead6f0493a
+b77bd749c800b24033d7f67b4ac3f2eaf55bdd7e01b3105daef3469dc0f1ffce
 ```
 
 Windows 10 (1809+) / 11, 64 bits · Gmail avec validation en 2 étapes.
